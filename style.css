@@ -9,7 +9,8 @@
 h3 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 30px;
-    margin: 50px
+    margin: 50px;
+    text-decoration: underline;
 }
 
 .workGrid {
@@ -32,4 +33,8 @@ h1 {
 body {
     margin: 50%;
     padding: 5%;
+}
+
+img {
+    width: 75%;
 }
